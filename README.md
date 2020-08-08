@@ -1,2 +1,2 @@
-# k3n.github.io
-my blog
+# Blog #
+## [*https://sckull.github.io*](https://sckull.github.io) ##
